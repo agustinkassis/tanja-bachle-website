@@ -31,7 +31,7 @@ export default function ContactPage() {
               <CardContent className="space-y-4">
                 <div>
                   <p className="font-medium">Email</p>
-                  <p className="text-muted-foreground">hello@tanjabachle.com</p>
+                  <p className="text-muted-foreground">tanja@testhere.com</p>
                 </div>
                 <div>
                   <p className="font-medium">Nostr</p>
